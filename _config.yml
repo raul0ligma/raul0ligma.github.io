@@ -1,0 +1,7 @@
+theme: jekyll-theme-minimal
+title: raul0ligma
+description: jekyll needs new themes
+show_downloads: false
+google_analytics:
+plugins:
+  - jekyll-seo-tag
