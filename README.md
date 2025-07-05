@@ -1,5 +1,4 @@
 # [raul0ligma](https://raul0ligma.github.io)
-
 [github](https://github.com/raul0ligma) [email](mailto:rahultripathidev@gmail.com) [twitter](https://x.com/raul0ligma)
 
 ## work
@@ -11,11 +10,16 @@
 - [smol-multisig](https://github.com/raul0ligma/smol-multisig): stateless multisig on solana, like safe
 - [brahma-kernel](https://github.com/Brahma-fi/brahma-builder): workflow engine built on temporal for managing defi-native workflows, powers brahma's console-kit
 
+
 ## background
 
+**currently**
+- exploring what's next in the space and working on new ideas
+
 [**brahma**](https://brahma.fi)
-- architected, built and [scaled](https://dune.com/rahul69/infra-bench) [Console](https://brahma.fi) from ground up, a non custodial DeFi execution environment built on safe's custody rails with granular access control, transaction policies, and automated execution across 11+ networks processing over 1B+ in transaction volume
-- built [Console Kit](https://brahma.fi/console-kit) a full stack infrastructure for agentic protocols leveraging Temporal for durable workflow execution, policy guardrails, and chain agnostic execution without any onchain deployment, powering [Brahma Agents](https://web.archive.org/web/20250705070753/https://agents.brahma.fi/) and integrated by external teams like [creator-bid](https://x.com/CreatorBid/status/1854479583497572557) and [ooga-booga](https://x.com/raul0ligma/status/1922936727640912213) doing over 300K transactions
+- architected and led development of [Console](https://brahma.fi) backend, building and [scaling](https://dune.com/rahul69/infra-bench) core infrastructure from ground up - a non custodial DeFi execution environment built on safe's custody rails with granular access control, transaction policies, and automated execution across 11+ networks processing over 1B+ in transaction volume with 195K+ accounts managed
+- led [Console Kit](https://brahma.fi/console-kit), a full stack infrastructure for agentic protocols leveraging Temporal for durable workflow execution, policy guardrails, and chain agnostic execution without any onchain deployment, powering [Brahma Agents](https://web.archive.org/web/20250705070753/https://agents.brahma.fi/)(9.5K+ agents launched) and integrated by external teams like [creator-bid](https://x.com/CreatorBid/status/1854479583497572557), [ooga-booga](https://x.com/raul0ligma/status/1922936727640912213) and [tempestFi](https://x.com/AbishekFi/status/1907086608224162114) with 850K+ transactions settled 
+- built backend for [Brahma Connect](https://github.com/Brahma-fi/brahma-connect), a chained execution framework enabling transaction batching across dApps with simulation.
 - built comprehensive monitoring and execution system for [Gearbox TopGear vault](https://x.com/BrahmaFi/status/1589672841301340160) which managed leveraged positions in [high volatility markets](https://x.com/BrahmaFi/status/1646897478464073728), analyzed on chain data for risk assessment, and built fast execution pipelines to prevent liquidations
 - worked on backend monitoring and execution infrastructure for DeltaNeutral vaults, including automated vault operations managing cross chain fund movement and position rebalancing
 - built [Karma V2](https://web.archive.org/web/20220908024053/https://karma.brahma.fi/), a comprehensive scoring system with ETL pipelines indexing 30K+ addresses across multiple chains, including both on-chain and off-chain data (Twitter activity, Discord interactions), with interactive bots for community engagement
