@@ -2,8 +2,6 @@
 
 [github](https://github.com/raul0ligma) [email](mailto:rahultripathidev@gmail.com) [twitter](https://x.com/raul0ligma)
 
-🌮 parte del cartel tech @ [brahmaFi](https://www.brahma.fi/)
-
 ## work
 
 - [smelter](https://github.com/raul0ligma/smelter): go-based local ethereum node that supports forking, simulation
@@ -11,18 +9,25 @@
 - [obsidian](https://github.com/raul0ligma/obsidian): private and offchain trade pre-confirmations with zkVM [view-more](https://ethglobal.com/showcase/obsidian-avpjn)
 - [JITLiq](https://github.com/JITLiq): a more faster and optimized bridging protocol design [view-more](https://ethglobal.com/showcase/jitliq-network-m2cw1)
 - [smol-multisig](https://github.com/raul0ligma/smol-multisig): stateless multisig on solana, like safe
-- [brahma-kernel](https://github.com/Brahma-fi/brahma-builder): workflow engine built on temporal for managing defi-native workflows
+- [brahma-kernel](https://github.com/Brahma-fi/brahma-builder): workflow engine built on temporal for managing defi-native workflows, powers brahma's console-kit
 
-## about me
+## background
 
-started off with ms-dos c compiler blowing my mind, playing with nodejs, then selling a few projects built on node in high-school.
+[**brahma**](https://brahma.fi)
+- architected, built and [scaled](https://dune.com/rahul69/infra-bench) [Console](https://brahma.fi) from ground up, a non custodial DeFi execution environment built on safe's custody rails with granular access control, transaction policies, and automated execution across 11+ networks processing over 1B+ in transaction volume
+- built [Console Kit](https://brahma.fi/console-kit) a full stack infrastructure for agentic protocols leveraging Temporal for durable workflow execution, policy guardrails, and chain agnostic execution without any onchain deployment, powering [Brahma Agents](https://web.archive.org/web/20250705070753/https://agents.brahma.fi/) and integrated by external teams like [creator-bid](https://x.com/CreatorBid/status/1854479583497572557) and [ooga-booga](https://x.com/raul0ligma/status/1922936727640912213) doing over 300K transactions
+- built comprehensive monitoring and execution system for [Gearbox TopGear vault](https://x.com/BrahmaFi/status/1589672841301340160) which managed leveraged positions in [high volatility markets](https://x.com/BrahmaFi/status/1646897478464073728), analyzed on chain data for risk assessment, and built fast execution pipelines to prevent liquidations
+- worked on backend monitoring and execution infrastructure for DeltaNeutral vaults, including automated vault operations managing cross chain fund movement and position rebalancing
+- built [Karma V2](https://web.archive.org/web/20220908024053/https://karma.brahma.fi/), a comprehensive scoring system with ETL pipelines indexing 30K+ addresses across multiple chains, including both on-chain and off-chain data (Twitter activity, Discord interactions), with interactive bots for community engagement
 
-then joined a [RMG product](https://web.archive.org/web/20220221160153/https://ewar.in/) as a founding intern from a hackathon, and went on to scaling it to a million registered users, designed matchmaking/transactional/gaming/streaming/tournaments systems,
-learned how to infinitely gobble up your queues, compress payloads using flatbuffers, experiment with [mmo](https://www.smartfoxserver.com) and [multiplayer](https://colyseus.io/) frameworks. built small [tools](https://github.com/raul0ligma/xerxes) and learned what happens when you don't obfuscate your code,
-to eventually getting shut because gambling on games is illegal, but it's fun to build.
+[**ewar games**](https://web.archive.org/web/20220221160153/https://ewar.in/)
+- architected and scaled [real-money gaming](https://www.storyboard18.com/gaming-news/exclusive-indias-gaming-industry-gets-clarity-rmg-sector-to-be-regulated-by-meity-47355.htm) infrastructure from prototype to 2.3M+ users handling 275K+ monthly transactions ($0.12 to $2K per session)
+- built high throughput matchmaking engine processing 55K+ games/month with optimized real-time communication channels connecting players to game servers
+- integrated [MMO platforms](https://www.smartfoxserver.com) and [multiplayer frameworks](https://colyseus.io) for game hosting and lobby management
+- built in house streaming and tournament systems with real time leaderboards, coupled with fraud detection pipelines analyzing concurrent game sessions and transactions
+- built the platform from scratch as one of the founding engineers, then led scaling and architecting for 2 years before getting shut down due to government regulations
 
-got interested in blockchain, metaverses were the closest to blockchains and games, joined another startup, figuring and building a metaverse, played with windows server profiling and running [photon](https://www.photonengine.com/) instances, did initial designs for systems, but left since vibes didn't match. started learning about chains, games, and doing more hackathons, and eventually got hired to build karma out of a hackathon and now building and scaling the tech at brahma.
-
-writing code for the first time and even now, feels like the fastest form of expressing ideas and then scaling them. it helps me turn raw ideas into working systems which people interact with.
-
-from transistors (now qbits) to systems handling millions of concurrent users, I'm still in awe, trying to learn everyday.
+**altworld**
+- built user management and session handling systems for Unity based metaverse platform
+- set up and benchmarked [Photon Engine](https://www.photonengine.com) servers on Windows for hosting multiplayer sessions
+- left after 6 months as metaverse tech didn't offer much technical learning and wasn't as promising
